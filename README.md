@@ -24,7 +24,7 @@ This repository contains my implementations, explanations, approaches, and compl
 
 | # | Topic | Progress |
 |---|---|---|
-| 01 | Big O, Arrays & Hashing | 0 / 20 |
+| 01 | Big O, Arrays & Hashing | 1 / 20 |
 | 02 | Two Pointers | 0 / 10 |
 | 03 | Sliding Window | 0 / 5 |
 | 04 | Stack & Queue | 0 / 10 |
